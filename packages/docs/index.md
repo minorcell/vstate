@@ -1,3 +1,24 @@
-# VState Documentation
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
 
-Welcome to the VState documentation!
+hero:
+  name: "VState"
+  text: "A lightweight state management library for Vue 3"
+  tagline: My great project tagline
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
+
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+---

@@ -7,8 +7,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.0",
-    "vstate": "workspace:*"
+    "vstate": "link:packages\\vstate",
+    "vue": "^3.3.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
